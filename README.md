@@ -6,6 +6,10 @@ O objetivo deste projeto era aprender e aplicar conceitos de automação de test
 ## Dia 1
 O projeto consistiu em criar testes automatizados para a plataforma de testes [Automation Practice](https://automationpratice.com.br/) com base nas instruções fornecidas no vídeo tutorial [link do vídeo](https://www.youtube.com/watch?v=AQw6RXmvTzE).
 
+## Dia 2: Testando APIs com Cypress
+
+No segundo dia do bootcamp, exploramos a automação de testes de APIs usando o Cypress. Utilizamos a API disponibilizada em [restful-api.dev](https://restful-api.dev/) para realizar testes automatizados de integração.
+
 ## Pré-requisitos
 
 Antes de executar os testes automatizados neste projeto, certifique-se de que os seguintes pré-requisitos foram atendidos:
